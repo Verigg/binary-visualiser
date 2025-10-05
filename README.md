@@ -8,20 +8,20 @@ Based on:
 
 ## Examples
 ### Executables
-![exec1](.examples/exec/exec1.exe.binvis.png)
-![exec2](.examples/exec/exec2.exe.binvis.png)
-![exec3](.examples/exec/exec3.exe.binvis.png)
+![exec1](examples/exec/exec1.exe.binvis.png)
+![exec2](examples/exec/exec2.exe.binvis.png)
+![exec3](examples/exec/exec3.exe.binvis.png)
 
 ### Images
-![img1](.examples/imgs/img1.jpg.binvis.png)
-![img2](.examples/imgs/img2.jpg.binvis.png)
-![img3](.examples/imgs/img3.png.binvis.png)
-![img4](.examples/imgs/img4.png.binvis.png)
+![img1](examples/imgs/img1.jpg.binvis.png)
+![img2](examples/imgs/img2.jpg.binvis.png)
+![img3](examples/imgs/img3.png.binvis.png)
+![img4](examples/imgs/img4.png.binvis.png)
 
 ### Wavs
-![wav1](.examples/wavs/wav1.wav.binvis.png)
-![wav2](.examples/wavs/wav2.wav.binvis.png)
-![wav3](.examples/wavs/wav3.wav.binvis.png)
+![wav1](examples/wavs/wav1.wav.binvis.png)
+![wav2](examples/wavs/wav2.wav.binvis.png)
+![wav3](examples/wavs/wav3.wav.binvis.png)
 
 ## Installation
 
