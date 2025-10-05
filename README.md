@@ -27,7 +27,7 @@ Based on:
 
 Clone or download the script
 ```console
-$ git clone <>
+$ git clone https://github.com/Verigg/binary-visualiser.git
 $ cd binary-visualiser
 ```
 Create virtual enviroment
